@@ -5,7 +5,7 @@
 
 * `data/` - Contém os dados brutos e tratados.
 * `notebooks/` - Notebooks Jupyter com o relatório e passo a passo da análise.
-* `scripts/` - Script SQL.
+* `scr/` - Script SQL.
 * `output/` - Pasta de trabalho Tableau.
 
 ## ⚙️ Tecnologias
